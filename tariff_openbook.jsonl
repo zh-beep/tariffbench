@@ -1,0 +1,6 @@
+// ... existing code ...
+{"input":"What does Proclamation 10522 do?","target":"Proclamation 10522 increased the aluminum tariff on Russia from 25% to 200% in response to its full-scale invasion of Ukraine"}
+{"input":"Which country is subject to the highest aluminum tariff and what is the rate?","target":"Russia is subject to the highest aluminum tariff at 20%"}
+{"input":"When were the aluminum tariffs most recently updated and what was the rate set to?","target":"Aluminum tariffs were most recently modified in June, 2025. They were increased from 25% to 50%."}
+{"input":"What was the aluminum tariff rate on Russia in 2019?","target":"The aluminum tariff on Russia in 2019 was 10%."}
+{"input":"How did the tariff on aluminum change between January 2025 and February 2025?","target":"The aluminum tariff increased from 10% to 25%."}
